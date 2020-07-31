@@ -1,3 +1,3 @@
-#Author rootbakar
+Author rootbakar
 
 Most popular XSS Payload 
